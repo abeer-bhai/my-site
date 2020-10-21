@@ -1,0 +1,34 @@
+body{
+  margin:0;
+  text-align: center;
+}
+
+h1{
+  display: inline;
+  font-family: 'Great Vibes', cursive;
+  font-size: 48px ;
+}
+
+/**********************************CLASS Selectors**********************************/
+.top-container{
+  background-color: #32e0c4;
+  position: relative;
+  padding: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 600px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 175px;
+  left: 600px;
+}
+
+.expt{
+  height: 700px;
+  width: 600px;
+}
